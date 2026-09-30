@@ -1,7 +1,7 @@
 
 **Họ và tên:** Phan Thị Ái My
-* **MSSV:** 1150080106
-   Lab 1: Bắt gói tin Telnet - SSH
+ **MSSV:** 1150080106
+   **Lab 1:** Bắt gói tin Telnet - SSH
 
 
 
