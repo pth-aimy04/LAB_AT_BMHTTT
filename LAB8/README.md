@@ -1,5 +1,9 @@
 # LAB 8 – LOCAL DNS ATTACK
 
+- Họ tên: Phan Thị Ái My
+- MSSV: 1150080106
+- Lớp: 11CNPM2
+
 ## 1. Môi trường thực hành
 
 - **Phần mềm ảo hóa:** VMware Workstation
