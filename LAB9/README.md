@@ -1,7 +1,10 @@
 
 # LAB 9 – Remote DNS Cache Poisoning
 
-
+- Họ tên: Phan Thị Ái My
+- MSSV: 1150080106
+- Lớp: 11CNPM2
+  
 ## Môi trường thực hành
 
 - Phần mềm ảo hóa: VMware Workstation
